@@ -70,7 +70,7 @@ class NumberGuessingGame
                 return;
             }
 
-            // Subrtacts the _remainingGuesses buy one each loop.
+            // Subrtacts the _remainingGuesses by one each loop.
             _remainingGuesses--;
 
 
